@@ -1,6 +1,8 @@
 SAMPLE
 
-
+BEGIN
 SAMPLE
 
-
+1
+2
+3
